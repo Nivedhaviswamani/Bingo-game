@@ -11,7 +11,7 @@ Welcome to the Java Bingo Game! This game allows two players to play against eac
 2. **Gameplay**: Players take turns calling out numbers. If a called number appears on a player's Bingo card, they mark it. The goal is to mark a full line (horizontally, vertically, or diagonally) on the Bingo card.
 
 3. **Winning**: The first player to mark a full line on their Bingo card shouts "Bingo!" and wins the game. The game ends when a player achieves Bingo.
---  **Link to know this game**- link is 'https://www.atlanticbingosupply.com/about/howto-play-bingo'
+   ## **Link to know this game**- link is 'https://www.atlanticbingosupply.com/about/howto-play-bingo'
 
 ## Getting Started
 
